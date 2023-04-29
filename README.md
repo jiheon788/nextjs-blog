@@ -40,4 +40,4 @@ npm run dev
 
 ## Tech Stack
 
-`NextJS`, `React`, `JavaScript`, `Vercel`
+`NextJS`, `React`, `TypeScript`, `Vercel`
